@@ -1,1 +1,1 @@
-Convolutional code R = 3/4
+## Encoder and decoders for convolutional 3/4 code
